@@ -74,6 +74,11 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: '/book-mark.svg',
     repo: false,
+    themePlugins: {
+      prismjs: {
+        lineNumbers: 'disable',
+      },
+    },
     navbar: [
       { text: '首页', link: '/' },
       { text: '开始阅读', link: '/book/00-preface.html' },
