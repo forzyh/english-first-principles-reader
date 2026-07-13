@@ -200,6 +200,12 @@ body {
 @media (max-width: 719px) {
   :root {
     --navbar-height: 3.6rem;
+    scroll-behavior: auto;
+  }
+
+  .vp-sidebar {
+    overscroll-behavior: contain;
+    scroll-behavior: auto;
   }
 
   .vp-page {
@@ -268,13 +274,20 @@ body {
   }
 
   #content blockquote {
+    box-sizing: border-box;
     margin: 1rem 0;
-    padding: 0.7rem 0.85rem;
+    max-width: 100%;
+    padding: 0.7rem 0.8rem;
+    width: 100%;
   }
 
   #content blockquote p {
     line-height: 1.65;
-    text-align: left;
+    overflow-wrap: anywhere;
+    text-align: justify;
+    text-align-last: left;
+    text-justify: inter-word;
+    text-wrap: wrap;
   }
 
   #content > div[class*='language-'] {
