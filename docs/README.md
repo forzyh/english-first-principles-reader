@@ -13,11 +13,11 @@ actions:
     link: /book/01-learning-map.html
     type: secondary
 features:
-  - title: 26 章完整正文
-    details: 从意义、句法树和语义图出发，逐步进入时态、体、情态、篇章与实际应用。
-  - title: 原图与结构保留
-    details: Word 中的插图、表格、列表和代码示例均已转换为适合网页阅读的 Markdown。
-  - title: 专注阅读
-    details: 章节侧栏、页内目录、全文搜索、深浅色模式和前后章导航一应俱全。
-footer: 概念版 1.0 · 中文教学稿
+  - title: 从意义出发
+    details: 先理解英语需要表达什么，再观察词序、句法与语法形式如何把意义组织起来。
+  - title: 建立系统模型
+    details: 用句法树、事件元数据和篇章图串联零散规则，形成一套可以推导和复用的知识结构。
+  - title: 迁移到真实表达
+    details: 通过例句、判断问题和章节练习，把理解逐步转化为长句阅读、写作与自我纠错能力。
+footer: 从理解结构开始，建立可持续生长的英语能力
 ---
