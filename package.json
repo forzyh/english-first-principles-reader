@@ -1,0 +1,19 @@
+{
+  "name": "english-first-principles-reader",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "content:extract": "ruby scripts/extract_docx.rb"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "next",
+    "@vuepress/plugin-slimsearch": "next",
+    "@vuepress/theme-default": "next",
+    "sass-embedded": "^1.100.0",
+    "vue": "^3.5.0",
+    "vuepress": "next"
+  }
+}

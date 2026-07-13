@@ -1,0 +1,207 @@
+[
+  {
+    "title": "英语第一性原理",
+    "path": "/book/cover.html",
+    "file": "cover.md"
+  },
+  {
+    "title": "写在前面：把英语重新看成一个系统",
+    "path": "/book/00-preface.html",
+    "file": "00-preface.md"
+  },
+  {
+    "title": "目录与学习地图",
+    "path": "/book/01-learning-map.html",
+    "file": "01-learning-map.md"
+  },
+  {
+    "title": "总览：English First Principles 语法树",
+    "path": "/book/02-overview.html",
+    "file": "02-overview.md"
+  },
+  {
+    "title": "第一部分　从意义到结构",
+    "path": "/book/part-1.html",
+    "file": "part-1.md"
+  },
+  {
+    "title": "第1章　语言为什么需要语法",
+    "path": "/book/chapter-01.html",
+    "file": "chapter-01.md"
+  },
+  {
+    "title": "第2章　线性字符串、句法树与语义图",
+    "path": "/book/chapter-02.html",
+    "file": "chapter-02.md"
+  },
+  {
+    "title": "第3章　英语怎样渐进式披露信息",
+    "path": "/book/chapter-03.html",
+    "file": "chapter-03.md"
+  },
+  {
+    "title": "第4章　最小句子：主语与谓语",
+    "path": "/book/chapter-04.html",
+    "file": "chapter-04.md"
+  },
+  {
+    "title": "第二部分　构建句法树",
+    "path": "/book/part-2.html",
+    "file": "part-2.md"
+  },
+  {
+    "title": "第5章　词与短语：节点怎样组成模块",
+    "path": "/book/chapter-05.html",
+    "file": "chapter-05.md"
+  },
+  {
+    "title": "第6章　动词价与句型：谓语开放哪些槽位",
+    "path": "/book/chapter-06.html",
+    "file": "chapter-06.md"
+  },
+  {
+    "title": "第7章　冠词与限定词：共享引用管理",
+    "path": "/book/chapter-07.html",
+    "file": "chapter-07.md"
+  },
+  {
+    "title": "第8章　修饰与挂接：信息究竟属于谁",
+    "path": "/book/chapter-08.html",
+    "file": "chapter-08.md"
+  },
+  {
+    "title": "第9章　介词：语义图中的关系边",
+    "path": "/book/chapter-09.html",
+    "file": "chapter-09.md"
+  },
+  {
+    "title": "第10章　从句：给结构挂上一棵子树",
+    "path": "/book/chapter-10.html",
+    "file": "chapter-10.md"
+  },
+  {
+    "title": "第11章　非谓语与并列：压缩和复用结构",
+    "path": "/book/chapter-11.html",
+    "file": "chapter-11.md"
+  },
+  {
+    "title": "第三部分　给事件添加元数据",
+    "path": "/book/part-3.html",
+    "file": "part-3.md"
+  },
+  {
+    "title": "第12章　时态：事件、参照点与说话时刻",
+    "path": "/book/chapter-12.html",
+    "file": "chapter-12.md"
+  },
+  {
+    "title": "第13章　体：说话者把镜头放在哪里",
+    "path": "/book/chapter-13.html",
+    "file": "chapter-13.md"
+  },
+  {
+    "title": "第14章　情态：命题存在于哪个可能世界",
+    "path": "/book/chapter-14.html",
+    "file": "chapter-14.md"
+  },
+  {
+    "title": "第15章　条件与虚拟：现实距离的编码",
+    "path": "/book/chapter-15.html",
+    "file": "chapter-15.md"
+  },
+  {
+    "title": "第16章　否定与疑问：对命题进行操作",
+    "path": "/book/chapter-16.html",
+    "file": "chapter-16.md"
+  },
+  {
+    "title": "第17章　语态：事件角色怎样映射为主语",
+    "path": "/book/chapter-17.html",
+    "file": "chapter-17.md"
+  },
+  {
+    "title": "第四部分　从句子树到篇章图",
+    "path": "/book/part-4.html",
+    "file": "part-4.md"
+  },
+  {
+    "title": "第18章　篇章对象与衔接",
+    "path": "/book/chapter-18.html",
+    "file": "chapter-18.md"
+  },
+  {
+    "title": "第19章　已知—新知、主题与焦点",
+    "path": "/book/chapter-19.html",
+    "file": "chapter-19.md"
+  },
+  {
+    "title": "第20章　逻辑关系与连接",
+    "path": "/book/chapter-20.html",
+    "file": "chapter-20.md"
+  },
+  {
+    "title": "第21章　段落：把多棵树组织成论证",
+    "path": "/book/chapter-21.html",
+    "file": "chapter-21.md"
+  },
+  {
+    "title": "第22章　语境、歧义、礼貌与语域",
+    "path": "/book/chapter-22.html",
+    "file": "chapter-22.md"
+  },
+  {
+    "title": "第五部分　把模型变成能力",
+    "path": "/book/part-5.html",
+    "file": "part-5.md"
+  },
+  {
+    "title": "第23章　长句解析算法",
+    "path": "/book/chapter-23.html",
+    "file": "chapter-23.md"
+  },
+  {
+    "title": "第24章　从语义图生成英语",
+    "path": "/book/chapter-24.html",
+    "file": "chapter-24.md"
+  },
+  {
+    "title": "第25章　错误调试系统",
+    "path": "/book/chapter-25.html",
+    "file": "chapter-25.md"
+  },
+  {
+    "title": "第26章　可持续生长的学习路线",
+    "path": "/book/chapter-26.html",
+    "file": "chapter-26.md"
+  },
+  {
+    "title": "附录A　全书语法树速查",
+    "path": "/book/appendix-a.html",
+    "file": "appendix-a.md"
+  },
+  {
+    "title": "附录B　核心判断清单",
+    "path": "/book/appendix-b.html",
+    "file": "appendix-b.md"
+  },
+  {
+    "title": "附录C　综合练习",
+    "path": "/book/appendix-c.html",
+    "file": "appendix-c.md"
+  },
+  {
+    "title": "附录D　参考答案与解析",
+    "path": "/book/appendix-d.html",
+    "file": "appendix-d.md"
+  },
+  {
+    "title": "附录E　中英术语表",
+    "path": "/book/appendix-e.html",
+    "file": "appendix-e.md"
+  },
+  {
+    "title": "结语：每条规则都应回到“为什么”",
+    "path": "/book/conclusion.html",
+    "file": "conclusion.md"
+  }
+]
