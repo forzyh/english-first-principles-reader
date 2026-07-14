@@ -209,7 +209,20 @@ body {
 
 @media (min-width: 720px) {
   #content > p {
+    margin: 0.4rem 0;
+  }
+
+  #content > blockquote {
     margin: 0.65rem 0;
+    padding: 0.55rem 1rem;
+  }
+
+  #content > h2 {
+    margin: 1.9rem 0 0.65rem;
+  }
+
+  #content > h3 {
+    margin: 1.45rem 0 0.5rem;
   }
 }
 
