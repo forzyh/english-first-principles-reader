@@ -7,6 +7,7 @@ import { defineUserConfig } from 'vuepress'
 const manifest = JSON.parse(
   readFileSync(new URL('./book-manifest.json', import.meta.url), 'utf8'),
 )
+const base = process.env.BASE_PATH || '/'
 
 const asLink = ({ title, path }) => ({ text: title, link: path })
 const byTitle = (pattern) => manifest.find((entry) => pattern.test(entry.title))
@@ -62,11 +63,12 @@ const sidebar = [
 ]
 
 export default defineUserConfig({
-  base: process.env.BASE_PATH || '/',
+  base,
   lang: 'zh-CN',
   title: '英语第一性原理',
   description: '从第一性原理理解英语：在线分章阅读版',
   head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: `${base}book-mark.svg` }],
     ['meta', { name: 'theme-color', content: '#174f9c' }],
     ['meta', { name: 'color-scheme', content: 'light dark' }],
   ],
