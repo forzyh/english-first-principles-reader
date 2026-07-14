@@ -208,6 +208,13 @@ body {
 }
 
 @media (min-width: 720px) {
+  #content > h2,
+  #content > h3,
+  #content > h4 {
+    padding-top: 0;
+    scroll-margin-top: calc(var(--navbar-height) + 0.8rem);
+  }
+
   #content > p {
     margin: 0.4rem 0;
   }
@@ -218,11 +225,11 @@ body {
   }
 
   #content > h2 {
-    margin: 1.9rem 0 0.65rem;
+    margin: 1.15rem 0 0.65rem;
   }
 
   #content > h3 {
-    margin: 1.45rem 0 0.5rem;
+    margin: 1rem 0 0.5rem;
   }
 }
 
