@@ -207,6 +207,37 @@ body {
   padding-top: 1.4rem;
 }
 
+.vp-home [vp-content] {
+  background: var(--vp-c-bg-alt);
+  border: 1px solid var(--vp-c-border);
+  border-radius: 0.8rem;
+  margin: 2.5rem auto 0;
+  max-width: 24rem;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.vp-home [vp-content] h2 {
+  border: 0;
+  font-family: 'Songti SC', 'STSong', 'Noto Serif CJK SC', serif;
+  font-size: 1.35rem;
+  margin: 0 0 1rem;
+  padding-top: 0;
+}
+
+.vp-home [vp-content] p {
+  margin: 0;
+}
+
+.vp-home [vp-content] img {
+  border-radius: 0.55rem;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 18rem;
+}
+
 @media (min-width: 720px) {
   #content > h2,
   #content > h3,
@@ -354,6 +385,22 @@ body {
 
   .vp-page-nav {
     margin-top: 2.2rem;
+  }
+
+  .vp-home [vp-content] {
+    box-sizing: border-box;
+    margin-top: 1.75rem;
+    padding: 1rem;
+    width: 100%;
+  }
+
+  .vp-home [vp-content] h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .vp-home [vp-content] img {
+    width: min(17rem, 100%);
   }
 }
 
